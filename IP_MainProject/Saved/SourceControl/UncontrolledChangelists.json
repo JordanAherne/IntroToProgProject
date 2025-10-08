@@ -5,6 +5,12 @@
 			"guid": "00000000000000000000000000000000",
 			"description": "Default Uncontrolled Changelist",
 			"files": [
+				"C:/Users/jorda/Documents/GitHub/IntroToProgProject/IP_MainProject/Content/Production/Blueprints/BP_FirstPersonShooterCharacter.uasset",
+				"C:/Users/jorda/Documents/GitHub/IntroToProgProject/IP_MainProject/Content/Input/IMC_Default.uasset",
+				"C:/Users/jorda/Documents/GitHub/IntroToProgProject/IP_MainProject/Content/__ExternalActors__/Production/Levels/MAP_TestLevel/3/S4/9TSCITL7CJYUWY69438SKB.uasset",
+				"C:/Users/jorda/Documents/GitHub/IntroToProgProject/IP_MainProject/Content/__ExternalActors__/Production/Levels/MAP_TestLevel/8/HW/ART82B9UELPYD5ZGEPERQB.uasset",
+				"C:/Users/jorda/Documents/GitHub/IntroToProgProject/IP_MainProject/Content/Production/Levels/MAP_TestLevel.umap",
+				"C:/Users/jorda/Documents/GitHub/IntroToProgProject/IP_MainProject/Content/Production/Blueprints/BP_ObjectivePoint.uasset",
 				"C:/Users/jorda/Documents/Unreal Projects/IP_MainProject/Content/__ExternalActors__/Production/Levels/MAP_TestLevel/0/R0/9W506AHCM47YE3769ZMOS3.uasset",
 				"C:/Users/jorda/Documents/Unreal Projects/IP_MainProject/Content/__ExternalActors__/Production/Levels/MAP_TestLevel/3/A7/HQCZTR1KGM4ZPDKT7W02KL.uasset",
 				"C:/Users/jorda/Documents/Unreal Projects/IP_MainProject/Content/__ExternalActors__/Production/Levels/MAP_TestLevel/7/G3/280UI87TLMWZ5IN48P2QOG.uasset",
