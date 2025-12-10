@@ -54,6 +54,8 @@ Plugins/**/Binaries/*
 # Builds
 Build/*
 
+Builds/*
+
 # Whitelist PakBlacklist-<BuildConfiguration>.txt files
 !Build/*/
 Build/*/**
@@ -76,3 +78,5 @@ Plugins/**/Intermediate/*
 DerivedDataCache/*
 IP_MainProject/Saved/Logs/IP_MainProject.log
 *.log
+
+
